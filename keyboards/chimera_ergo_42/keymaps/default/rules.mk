@@ -1,0 +1,5 @@
+VPATH += keyboards/gboards/
+COMBO_ENABLE = yes
+COMBO_ALLOW_ACTION_KEYS = yes
+EXTRAFLAGS=-DCOMBO_VARIABLE_LEN
+# DEBOUNCE_TYPE = sym_eager_pk

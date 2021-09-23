@@ -2,7 +2,7 @@
 
 ![Chimera Ergo](https://imgur.com/AA6ycMQ.jpg)
 
-A split wireless 40% ergonomic keyboard 
+A split wireless 40% ergonomic keyboard
 
 Keyboard Maintainer: [William Wilson](https://github.com/GlenPickle)  
 Hardware Supported: Chimera Ergo PCB, WaveShare core nRF51822  
@@ -14,3 +14,4 @@ Make example for this keyboard (after setting up your build environment):
 
 See [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) then the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information.
 
+https://docs.google.com/spreadsheets/d/1IaaOMbl6zLBb5Jswyr90Lp9hGx3xIyugVSfD_oBk4po/edit#gid=0

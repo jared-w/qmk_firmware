@@ -92,7 +92,7 @@ static inline uint16_t _get_combo_term(uint16_t combo_index, combo_t *combo) {
         return get_combo_term(combo_index, combo);
 #else
         if (_get_combo_must_hold(combo_index, combo)) {
-            return COMBO_MOD_TERM
+            return COMBO_MOD_TERM;
         }
 #endif
 

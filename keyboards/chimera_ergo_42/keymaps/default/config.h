@@ -1,0 +1,21 @@
+#pragma once
+#define PERMISSIVE_HOLD
+#define TAPPING_TERM 150
+#define IGNORE_MOD_TAP_INTERRUPT
+#define HOLD_ON_OTHER_KEY_PRESS
+
+#define COMBO_MUST_HOLD_MODS
+#define COMBO_ALLOW_ACTION_KEYS
+#define COMBO_TERM 25
+#define COMBO_MOD_TERM 25
+
+#define QMK_KEYS_PER_SCAN 4
+
+#define MOUSEKEY_DELAY          0
+#define MOUSEKEY_INTERVAL       16
+#define MOUSEKEY_WHEEL_DELAY    0
+#define MOUSEKEY_MAX_SPEED      4
+#define MOUSEKEY_TIME_TO_MAX    20
+
+// #undef DEBOUNCE
+// #define DEBOUNCE 5
